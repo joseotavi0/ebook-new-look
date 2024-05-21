@@ -5,7 +5,6 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas nesse projeto
 
-- [ChatGPT](https://chat.openai.com/) 
 - [Canva](https://www.canva.com/pt_br/)
 - [ChatGPT](https://chat.openai.com/)
 
